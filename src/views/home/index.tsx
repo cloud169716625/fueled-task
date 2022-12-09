@@ -17,7 +17,6 @@ export default function Home() {
       question: '',
       answers: [],
     }
-
     setQuestionData([...questionData, tempData])
   }
 
